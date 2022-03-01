@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="total_amount">Total Amount of Tip</string>
+    <string name="tip_percentage">Tip Toal Percentage</string>
+    <string name="percentage_15">15%</string>
+    <string name="percentage_20">20%</string>
+    <string name="percentage_35">35%</string>
+    <string name="tip_percentage1">Tip Total Percentage</string>
+    <string name="button_round">Redondear</string>
+</resources>
